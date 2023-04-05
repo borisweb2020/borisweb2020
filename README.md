@@ -21,5 +21,7 @@
 
 <h3>Socials</h3>
 <p align="left">
-  <img src="src/images/linkedin.svg" alt="LinkedIn" width="36" height="36">
+  <a href="https://www.linkedin.com/in/boris-kharchenko-634813bb" target="_blank" rel="noopener noreffere">
+    <img src="src/images/linkedin.svg" alt="LinkedIn" width="36" height="36">
+  </a>
 </p>
