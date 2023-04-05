@@ -3,7 +3,7 @@
 <!--
 **borisweb2020/borisweb2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p>I am a beginner programmer and web developer.</p>
+<p margin-bottom="5">I am a beginner programmer and web developer.</p>
 <p>I have experience in non-commercial website development.</p>
 <hr>
 <ul>
